@@ -1,2 +1,0 @@
-# Python-census-project
-
